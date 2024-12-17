@@ -1,4 +1,4 @@
-# Projeto Filmes
+
 
 
 # Página Home da Aplicação
@@ -29,7 +29,7 @@ $ yarn start
 
 Deploy: https://filmes-sujeito.netlify.app/
 
-<p align="center">Made with 💜 by Viviane Oliveira</p>
+
 
 
 
